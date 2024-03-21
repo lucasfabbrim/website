@@ -1,0 +1,7 @@
+{
+  "configs": [
+    {"pages": "Funcionalidades", "url": "/funcionalidades"},
+    {"pages": "Integração", "url": "/funcionalidades"},
+    {"pages": "Planos", "url": "/funcionalidades"}
+  ]
+}
